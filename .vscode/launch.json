@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ErpJsApplication<erp_js>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.erp.ru.erp_js.ErpJsApplication",
+            "projectName": "erp_js",
+            "args": ""
+        }
+    ]
+}
